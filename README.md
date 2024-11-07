@@ -33,7 +33,7 @@ The "Movie Data Analysis Dashboard" project focuses on exploring various aspects
 
 - Loaded and inspected the dataset for consistency.
 - Handled errors and missing values to ensure data integrity.
-- Cleaned and formatted data using Power Query for efficient analysis.The exel file after the data cleaning & with a dashboards can be found here - [dashboard movies.xlsx](https://github.com/user-attachments/files/17670612/dashboard.movies.xlsx)
+- Cleaned and formatted data using Power Query for efficient analysis.The exel file after the data cleaning & with a dashboards can be found here - [dashboard_movies.xlsx](https://github.com/user-attachments/files/17670647/dashboard_movies.xlsx)
 
 
 ### Analysis and Visualizations
@@ -44,11 +44,11 @@ The "Movie Data Analysis Dashboard" project focuses on exploring various aspects
 
 ### Findings
 
-![Movie Data Dashboard](https://github.com/YourUsername/Movie-Data-Analysis-Dashboard/blob/main/Images/dashboard_screenshot.png)
-
 - **Top Genres**: Identified the most profitable genres during the specified period.
 - **Key Players**: Analyzed directors and actors who consistently delivered high-grossing movies.
 - **Budget vs. Revenue**: Explored the relationship between production budgets and box office returns.
+
+### Data Visualization
 
 ### Conclusion
 
