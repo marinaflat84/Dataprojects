@@ -33,8 +33,8 @@ The "Movie Data Analysis Dashboard" project focuses on exploring various aspects
 
 - Loaded and inspected the dataset for consistency.
 - Handled errors and missing values to ensure data integrity.
-- Cleaned and formatted data using Power Query for efficient analysis.The exel file after the data cleaning & with a dashboards can be found here - 
-  [Dashboard movies.xlsx](https://github.com/user-attachments/files/17670561/dashboard.movies.xlsx)
+- Cleaned and formatted data using Power Query for efficient analysis.The exel file after the data cleaning & with a dashboards can be found here - [dashboard movies.xlsx](https://github.com/user-attachments/files/17670612/dashboard.movies.xlsx)
+
 
 ### Analysis and Visualizations
 
