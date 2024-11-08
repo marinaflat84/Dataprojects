@@ -50,6 +50,7 @@ The "Movie Data Analysis Dashboard" project focuses on exploring various aspects
 
 ### Data Visualization
 There are three filters on the dashboard that filter our data. There are two charts visualizing top 10 genres by boxx office and release date with boxx oficce values 
+
 ![dashbordscreens](https://github.com/user-attachments/assets/c9f13365-00fb-48ed-abac-d88066e70051)
 #### M Language 
 
@@ -69,12 +70,6 @@ One of interesting features I was working with was a specific code for Grouping 
 
 ```
 
-### Conclusion
 
-The analysis provided valuable insights into the movie industry's trends from 2012 to 2016, which can guide future investments and production decisions.
 
-### Acknowledgments
-
-- Special thanks to [Data Source Name](link) for providing the dataset.
-- Inspired by the analytical methods from [Related Project](link).
 
