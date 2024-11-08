@@ -49,6 +49,25 @@ The "Movie Data Analysis Dashboard" project focuses on exploring various aspects
 - **Budget vs. Revenue**: Explored the relationship between production budgets and box office returns.
 
 ### Data Visualization
+There are three filters on the dashboard that filter our data. There are two charts visualizing top 10 genres by boxx office and release date with boxx oficce values 
+![dashbordscreens](https://github.com/user-attachments/assets/c9f13365-00fb-48ed-abac-d88066e70051)
+#### M Language 
+
+One of interesting features I was working with was a specific code for Grouping in M language which enable me to Combine genres together for further analysis.
+
+```
+
+= Table.Group(#"Sorted Rows1", {"Movie Title"}, 
+
+                                            {{"Combined Genre", each Text.Combine([Concat Genre], " / "), type text},
+
+                                            {"AllData", each _, 
+
+                                                        type table [Movie Title=nullable text, Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director=nullable text, Actor First=nullable text, Actor Second=nullable text, Actor Third=nullable text, Actor Fourth=nullable text, Actor Fifth=nullable text, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number]}
+
+                                            }
+
+```
 
 ### Conclusion
 
