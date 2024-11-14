@@ -12,8 +12,6 @@ An interactive dashboard project analyzing movie data from 2012 to 2016 to uncov
 - [Data Preparation](#data-preparation)
 - [Analysis and Visualizations](#analysis-and-visualizations)
 - [Findings](#findings)
-- [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
 
 ### Introduction
 
