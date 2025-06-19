@@ -67,7 +67,19 @@ One of interesting features I was working with was a specific code for Grouping 
                                             }
 
 ```
+## ✈️ British Airlines Reviews Dashboard
 
+This interactive Tableau dashboard analyzes over 1,500 British Airways passenger reviews across key service categories.
+
+📊 View online:  
+👉 [British Airlines Dashboard on Tableau Public](https://public.tableau.com/views/BritishAirlinesReviewsDashboard_17503696334530/Dashboard)
+
+<img src="British_Airlines_Dashboard_Cropped.png" width="800">
+
+### Features:
+- KPI metrics on staff, food, entertainment, comfort, and more
+- Interactive map by country and timeline of reviews
+- Aircraft-type analysis with filterable dimensions
 
 
 
