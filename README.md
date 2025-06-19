@@ -81,5 +81,33 @@ This interactive Tableau dashboard analyzes over 1,500 British Airways passenger
 - Interactive map by country and timeline of reviews
 - Aircraft-type analysis with filterable dimensions
 
+```
+📊 Power BI Sales Dashboards
+🔹 Sales Analysis Dashboard
+This Power BI dashboard provides a high-level overview of sales performance:
 
+Key metrics: Total Sales, Max Unit Cost, Avg Unit Cost
+
+Sales breakdown by region and item
+
+Dynamic filtering by date, region, and representative
+
+📁 Download PBIX file
+🖼️ Screenshot:
+<img src="Sale_Analysis_Dashboard.png" width="800">
+
+🔹 Sales Report Dashboard
+This dashboard dives deeper into item-level and regional sales trends:
+
+Total sales and max unit cost by item
+
+Pie chart for regional distribution
+
+Interactive filters for representative and region
+
+📁 Download PBIX file
+🖼️ Screenshot:
+<img src="Sale_Report_Dashboard.png" width="800">
+
+💬 Note: Datasets are anonymized and used for demonstration purposes only.
 
