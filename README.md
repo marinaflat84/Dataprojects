@@ -92,7 +92,6 @@ High-level overview of sales performance.
 - Date/Region/Rep filters  
 
 📂 [Download PBIX](sale analysis dashboard.pbix)  
-📷 Screenshot:  
 ![Sales Analysis](Sales_Analysis_Dashboard.png)
 
 ---
@@ -105,7 +104,6 @@ Item-level and regional performance.
 - Representative & region slicers  
 
 📂 [Download PBIX](sales report.pbix)  
-📷 Screenshot:  
-![Sales Report](Sales_Report_Dashboard.png)
+ ![Sales Report](Sales_Report_Dashboard.png)
 
 > 📝 *Datasets are anonymized and used for demonstration purposes only.*
